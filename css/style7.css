@@ -53,15 +53,15 @@
 	opacity: 0;
 }
 
-.ch-img-1 { 
+.ch-img-1 {
 	background-image: url(../images/ser1.png);
 }
 
-.ch-img-2 { 
+.ch-img-2 {
 	background-image: url(../images/ser2.png);
 }
 
-.ch-img-3 { 
+.ch-img-3 {
 	background-image: url(../images/ser3.png);
 }
 
@@ -72,9 +72,9 @@
 	margin: 0 15px;
 	padding: 60px 10px 10px 10px;
 	font-family: 'Open Sans', Arial, sans-serif;
-	text-shadow: 
-		0 0 1px #fff, 
-		0 1px 2px rgba(0,0,0,0.3);
+	text-shadow:
+	0 0 1px #fff,
+	0 1px 2px rgba(0,0,0,0.3);
 }
 
 .ch-info p {
